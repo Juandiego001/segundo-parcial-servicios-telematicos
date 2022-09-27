@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/juan/Documentos/UAO/Séptimo semestre/Servicios telematicos/Evaluaciones/Segundo parcial/configuracion-ambiente","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}

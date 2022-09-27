@@ -1,0 +1,7 @@
+
+
+Rich rules.
+
+firewall-cmd --add-rich-rule='rule protocol value=icmp reject'
+firewall-cmd --list-rich-rules
+firewall-cmd --remove-rich-rule='rule protocol value=icmp reject'
